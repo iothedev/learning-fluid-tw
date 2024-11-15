@@ -1,6 +1,6 @@
 # Fluid Responsiveness with Next.js and Tailwind CSS
 
-This project is a learning showcase of **Fluid Responsiveness** using **Next.js** and **Tailwind CSS with the Fluid plugin**. It demonstrates techniques to create designs that adapt fluidly to different screen sizes and resolutions, including layouts, typography, and other visual elements.
+This project is a learning showcase of **Fluid Responsiveness** using **Next.js** and **Tailwind CSS with the [Fluid plugin](https://fluid.tw)**. It demonstrates techniques to create designs that adapt fluidly to different screen sizes and resolutions, including layouts, typography, and other visual elements.
 
 ## Design Credit
 
@@ -16,6 +16,6 @@ The design used in this project is based on [this Figma Community file](https://
 ## Technologies Used
 
 - **Next.js** for the framework
-- **Tailwind CSS** (with Fluid.tw)
+- **Tailwind CSS** (with the [Fluid plugin](https://fluid.tw))
 - **Figma** as the design reference
 - **TypeScript** for enhanced code reliability

@@ -7,7 +7,7 @@ const Contact = () => (
                 <h1 className='~text-xl/4xl font-medium'>Contact Us</h1>
             </div>
             <p className='~text-sm/base max-w-80'>
-                Connect with Us: Let's Discuss Your Digital Marketing Needs
+                Connect with Us: Let&apos;s Discuss Your Digital Marketing Needs
             </p>
         </div>
 
