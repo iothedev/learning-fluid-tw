@@ -4,6 +4,10 @@
 
 This project showcases **Fluid Responsiveness** using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) with the [Fluid plugin](https://fluid.tw). It demonstrates layouts, typography, and elements that adjust smoothly to any screen size.
 
+## Design Credit
+
+Inspired by [this Figma Community file](https://www.figma.com/community/file/1230604708032389430).
+
 ## Features
 
 -   **Fluid Design**: Scalable and responsive layouts.
