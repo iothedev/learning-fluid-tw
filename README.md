@@ -1,23 +1,18 @@
-# Fluid Responsiveness with Next.js and Tailwind CSS
+# Fluid Responsiveness with Next.js and Tailwind CSS Fluid Plugin ([Live Demo](https://learning-fluid-tw.vercel.app/))
 
-This project demonstrates **Fluid Responsiveness** using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) with the [Fluid plugin](https://fluid.tw). It showcases scalable layouts, typography, and visual elements that adapt seamlessly to different devices and screen sizes.
+## Introduction
 
-## Design Credit
-
-Inspired by [this Figma Community file](https://www.figma.com/community/file/1230604708032389430).
+This project showcases **Fluid Responsiveness** using [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/) with the [Fluid plugin](https://fluid.tw). It demonstrates layouts, typography, and elements that adjust smoothly to any screen size.
 
 ## Features
 
--   **Fluid Design**: Scalable layouts, typography, and spacing for a responsive user experience.
--   **Next.js**: Leverages server-side rendering for performance optimization.
+-   **Fluid Design**: Scalable and responsive layouts.
+-   **Next.js**: Optimized performance with server-side rendering.
 -   **Tailwind CSS**: Utility-first styling with the [Fluid plugin](https://fluid.tw).
--   **TypeScript**: Ensures reliability and maintainability.
+-   **TypeScript**: Improved code reliability.
 
 ## Technologies
 
 -   [Next.js](https://nextjs.org/)
--   [Tailwind CSS](https://tailwindcss.com/) with the [Fluid plugin](https://fluid.tw)
--   [Figma](https://www.figma.com/) for design reference
+-   [Tailwind CSS](https://tailwindcss.com/) (w/[Fluid plugin](https://fluid.tw))
 -   [TypeScript](https://www.typescriptlang.org/)
-
-Explore how fluid responsiveness can elevate modern web design!
