@@ -75,6 +75,7 @@ const Service = ({ title, href, graphic, variant }: ServiceProps) => (
 
             <img
                 src={`/media/services/${graphic}`}
+                alt={`${title.replaceAll('\n', ' ')} graphic`}
                 className='absolute -right-1/3 sm:right-6 top-1/2 -translate-y-1/2 p-'
             />
         </div>

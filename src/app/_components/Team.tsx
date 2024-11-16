@@ -1,3 +1,5 @@
+import Link from 'next/link';
+
 interface MemberProps {
     avatar: string;
     name: string;
@@ -60,13 +62,17 @@ const teamMembers: MemberProps[] = [
 const Member = ({ avatar, name, role, linkedIn, description }: MemberProps) => (
     <div className='rounded-[40px] border border-b-4 border-background-2 ~p-6/10'>
         <div className='relative flex items-end gap-6'>
-            <img src={`/media/team/${avatar}`} className='max-w-24' />
+            <img
+                src={`/media/team/${avatar}`}
+                alt={`${name} portrait`}
+                className='max-w-24'
+            />
             <div className='flex flex-col ~text-sm/lg'>
                 <span className='font-medium'>{name}</span>
                 <span>{role}</span>
             </div>
 
-            <a
+            <Link
                 href={linkedIn}
                 target='_blank'
                 className='absolute top-0 right-0 h-9 w-9 bg-background-2 rounded-full flex items-center justify-center'
@@ -92,7 +98,7 @@ const Member = ({ avatar, name, role, linkedIn, description }: MemberProps) => (
                         fill='currentColor'
                     />
                 </svg>
-            </a>
+            </Link>
         </div>
 
         <hr className='~my-5/6 border-background-2' />
